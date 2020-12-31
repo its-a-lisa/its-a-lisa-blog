@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Alyssa Feola',
+  subtitle: 'A place for my semi-strong opinions, general musings and many, many questions.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Writings',
       path: '/'
     },
     {
@@ -25,19 +25,19 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Alyssa Feola',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'A place for my semi-strong opinions, general musings and many, many questions.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'alyssa@seventeensierra.com',
+      facebook: 'alyssa.feola',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'its_a_lisa',
+      github: 'its-a-lisa',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'alyssafeola',
+      instagram: 'it.a.lisa',
       line: '',
       gitlab: '',
       weibo: '',
