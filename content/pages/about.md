@@ -4,7 +4,9 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+## Who is Alyssa Feola?
+
+She a woman who wants to rule the world one day and chill on the couch the next. She has been known to be a "big personality" and never mistaken for being quiet. You'll often hear yourself saying "Woah, I hadn't thought of that" or "Good question" after a conversation undoubtedly turns into a philosophical conversation related to various aspects of personal or professional life.
 
 ![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
