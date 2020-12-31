@@ -2,6 +2,7 @@
 title: "About me"
 template: "page"
 socialImage: "/media/image-2.jpg"
+draft: false
 ---
 
 ## Who is Alyssa Feola?
