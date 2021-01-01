@@ -7,6 +7,8 @@ draft: true
 date: 2021-01-01T20:40:45.931Z
 description: "My journey to start 2021 with a fresh (virtual) start. "
 category: Data Management
+tags:
+  - newyear
 ---
 A scenario happened to me that is all too familiar -- I tried to find an email and realized that my inbox was too clunky and it was a futile attempt. This was not the first time or a new thing to happen, but the timing did happen to be at the end of an already frustrating year. Therefore, it led me to declare pubically that I was going to Do Something About It. 
 
