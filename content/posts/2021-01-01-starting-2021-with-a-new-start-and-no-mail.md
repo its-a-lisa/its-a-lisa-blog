@@ -46,7 +46,7 @@ This blog is going to document the journey I went on to turn this declaration in
 * [Exporting emails](https://support.google.com/accounts/answer/3024190?hl=en)
 * [Your Step-by-Step Guide to Reaching Inbox Zero](https://www.themuse.com/advice/your-stepbystep-guide-to-reaching-inbox-zero-even-if-you-currently-have-1000-unread-emails)
 * [An Email Fanatic's Guide to Organizing Your Inbox](https://www.themuse.com/advice/an-email-fanatics-guide-to-organizing-your-inbox )
-* [How to Migrate Email from One Gmail Account to Another] (https://lifehacker.com/how-to-migrate-email-from-one-gmail-account-to-another-5521065?utm_medium=sharefromsite&utm_source=lifehacker_twitter) 
+* [How to Migrate Email from One Gmail Account to Another](https://lifehacker.com/how-to-migrate-email-from-one-gmail-account-to-another-5521065?utm_medium=sharefromsite&utm_source=lifehacker_twitter) 
 * [How to Back Up Your Gmail and View .MBOX Files ](https://lifehacker.com/how-to-back-up-your-gmail-and-view-mbox-files-1827660389utm_medium=sharefromsite&utm_source=lifehacker_twitter)
 * [How to Open, Edit, & Convert TGZ, GZ, & TAR.GZ Files](https://www.lifewire.com/what-are-tgz-gz-files-2622391)
 
