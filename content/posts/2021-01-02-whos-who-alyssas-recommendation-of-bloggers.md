@@ -11,8 +11,8 @@ category: blogging
 tags:
   - blogging
 ---
-|Blogger   | Site URL | Date added  | Topics  | Accolades  | Promoted Article |
-|---|---|---|---|---| ---|
-| Heather Weaver  | [hweaver.com](https://www.hweaver.com/)  | 1/1/21  | lifestyle, productivity, software  | A Really like it; polished and informative.   |[Moving on From Unroll.Me - A Sanebox Review ](https://www.hweaver.com/sanebox-review-after-unrollme/)|
-| Amit Agarwal | [labnol.org](https://www.labnol.org/)  | 1/1/21  | Gmail, Google Sheets |Digital Inspiration   | [How to Unsubscribe from Mailing Lists and Junk Newsletters in Gmail ](https://www.labnol.org/internet/gmail-unsubscribe/28806/)  |
-|   |   |   |   |   |
+| Blogger        | Site URL                                | Date added | Topics                            | Accolades                                   | Promoted Article                                                                                                                 |
+| -------------- | --------------------------------------- | ---------- | --------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| Heather Weaver | [hweaver.com](https://www.hweaver.com/) | 1/1/21     | lifestyle, productivity, software | A Really like it; polished and informative. | [Moving on From Unroll.Me - A Sanebox Review ](https://www.hweaver.com/sanebox-review-after-unrollme/)                           |
+| Amit Agarwal   | [labnol.org](https://www.labnol.org/)   | 1/1/21     | Gmail, Google Sheets              | Digital Inspiration                         | [How to Unsubscribe from Mailing Lists and Junk Newsletters in Gmail ](https://www.labnol.org/internet/gmail-unsubscribe/28806/) |
+| Various | [hackersandslackers.com](https://hackersandslackers.com/)| 1/2/21 | data science, data engineering, analysis |Great collection of articles.|[Create a Twitter Widget in GatsbyJS](https://hackersandslackers.com/custom-twitter-widget-in-gatsbyjs/) 
