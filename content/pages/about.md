@@ -1,8 +1,8 @@
 ---
-template: page
-title: About me
-slug: about-me
-socialImage: /media/034-laptop.png
+template: "page"
+title: "About me"
+slug: "about-me"
+socialImage: "/media/034-laptop.png"
 draft: false
 ---
 ## Who is Alyssa Feola?
