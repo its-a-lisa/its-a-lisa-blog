@@ -6,5 +6,3 @@ socialImage: /media/009-email.png
 draft: true
 ---
 I can be reached through [email](emailto:alyssa@seventeensierra.com) or [Twitter DM](https://twitter.com/its_a_lisa). 
-
-![Contact me](/media/009-email.png)

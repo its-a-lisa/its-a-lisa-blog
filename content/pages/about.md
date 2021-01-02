@@ -20,5 +20,3 @@ Alyssa constnatly finds herself telling people that “Its-a-lisa” in a way th
 ## [](http://localhost:8000/pages/about#where-is-she-from)Where is she from?
 
 Alyssa is currently living in Washington, DC. Alyssa is from the Northshore of Boston, Massachusetts and has the accent and attitude to go with it.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/019-laptop.png)
