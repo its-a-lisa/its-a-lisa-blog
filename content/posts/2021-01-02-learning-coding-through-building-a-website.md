@@ -20,4 +20,5 @@ I built this website and have run into a variety of unexpected things, all great
 
 * Tags can't start with a number. 
 * There needs to be at least one Post that the `draft` attribute is set to `true` or an error will be thrown for the whole site.
-* When updating the `pages` from the Content Management System, need to go back into GitHub file to add the quotes around input
+* When updating the `pages` from the Content Management System, need to go back into the GitHub file to add the quotes around the input.
+* When putting in an embedded tweet to a blog post directly from a GitHub push, it won't format properly. It will format properly when pushed from the CMS.
