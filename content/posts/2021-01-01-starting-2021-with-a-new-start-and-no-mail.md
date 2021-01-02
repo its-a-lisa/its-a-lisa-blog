@@ -34,13 +34,12 @@ This blog is going to document the journey I went on to turn this declaration in
 * A system to not let this happen going forward. 
 
 ## The process
-
-1. Use Google Takeout to export the data
-2. Wait 3 days
-3. Validate the data exported properly by importing it locally using Thunderbird
-4. Delete all mail from inbox
-5. Unsubscribing from services
-6. Setting up OOO and mail forwarding for old email addresses
+- [x] Use Google Takeout to export the data
+  - [ ]  Wait 3 days
+ - [ ]  Validate the data exported properly by importing it locally using Thunderbird
+ - [ ]  Delete all mail from inbox
+ - [x]  Unsubscribing from services
+ - [x]  Setting up OOO and mail forwarding for old email addresses
 
 ## Discovery/ Research/ Resources
 
