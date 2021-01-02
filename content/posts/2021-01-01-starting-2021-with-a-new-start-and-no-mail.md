@@ -10,7 +10,7 @@ category: Data Management
 tags:
   - newyear
 ---
-A scenario happened to me that is all too familiar -- I tried to find an email and realized that my inbox was too clunky and it was a futile attempt. This was not the first time or a new thing to happen, but the timing did happen to be at the end of an already frustrating year. Therefore, it led me to declare pubically that I was going to Do Something About It. 
+A scenario happened to me that is all too familiar -- I tried to find an email and realized that my inbox was too clunky and it was a futile attempt. This was not the first time or a new thing to happen, but the timing did happen to be at the end of an already frustrating year. Therefore, it led me to declare publically that I was going to Do Something About It. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think in honor 2020 being a shit year &amp; my progress with treating my OCD/OCPD (which hoarding is a symptom)... <br><br>... I am going to declare &#39;Mailbox Zero&#39; with physical and virtual mail. <a href="https://t.co/uF1f5ktQPw">pic.twitter.com/uF1f5ktQPw</a></p>&mdash; Alyssa Feola (@its_a_lisa) <a href="https://twitter.com/its_a_lisa/status/1344733460498419714?ref_src=twsrc%5Etfw">December 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -47,7 +47,7 @@ This blog is going to document the journey I went on to turn this declaration in
 * [Your Step-by-Step Guide to Reaching Inbox Zero](https://www.themuse.com/advice/your-stepbystep-guide-to-reaching-inbox-zero-even-if-you-currently-have-1000-unread-emails)
 * [An Email Fanatic's Guide to Organizing Your Inbox](https://www.themuse.com/advice/an-email-fanatics-guide-to-organizing-your-inbox )
 * [How to Migrate Email from One Gmail Account to Another] (https://lifehacker.com/how-to-migrate-email-from-one-gmail-account-to-another-5521065?utm_medium=sharefromsite&utm_source=lifehacker_twitter) 
-* [How to Back Up Your Gmail and View .MBOX Files ](https://lifehacker.com/how-to-back-up-your-gmail-and-view-mbox-files-1827660389?utm_medium=sharefromsite&utm_source=lifehacker_twitter)
+* [How to Back Up Your Gmail and View .MBOX Files ](https://lifehacker.com/how-to-back-up-your-gmail-and-view-mbox-files-1827660389utm_medium=sharefromsite&utm_source=lifehacker_twitter)
 * [How to Open, Edit, & Convert TGZ, GZ, & TAR.GZ Files](https://www.lifewire.com/what-are-tgz-gz-files-2622391)
 
 
