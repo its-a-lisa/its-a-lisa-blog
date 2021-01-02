@@ -142,7 +142,7 @@ module.exports = {
       options: {
         trackingIds: [siteConfig.googleAnalyticsId],
         pluginConfig: {
-          head: true
+          head: false
         }
       }
     },
