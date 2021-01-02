@@ -1,0 +1,19 @@
+---
+template: post
+title: Learning coding through building a website
+slug: learning-through-building
+socialImage: /media/050-binary.png
+draft: true
+date: 2021-01-02T00:04:15.255Z
+description: "A running list of what I learned by building a website. "
+category: Web Development
+tags:
+  - webdevelopment
+---
+I built this website and have run into a variety of unexpected things, all great lessons. 
+
+## Web Development Lessons
+* There are many types of styling approaches. 
+
+## its-a-lisa.com specific lessons
+* Tags can't start with a number. 
