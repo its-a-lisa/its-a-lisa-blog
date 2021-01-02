@@ -11,8 +11,8 @@ category: blogging
 tags:
   - blogging
 ---
-|Blogger   | Site URL | Promoted Article  | Topics  | Accolades  |
-|---|---|---|---|---|
-| Heather Weaver  | https://www.hweaver.com/  | [Moving on From Unroll.Me - A Sanebox Review ](https://www.hweaver.com/sanebox-review-after-unrollme/)  | lifestyle, productivity, software  | A Really like it; polished and informative.   |
-| Amit Agarwal | https://www.labnol.org/  |  [How to Unsubscribe from Mailing Lists and Junk Newsletters in Gmail ](https://www.labnol.org/internet/gmail-unsubscribe/28806/)  | Gmail, Google Sheets |Digital Inspiration   |
+|Blogger   | Site URL | Date added  | Topics  | Accolades  | Promoted Article |
+|---|---|---|---|---| ---|
+| Heather Weaver  | [hweaver.com](https://www.hweaver.com/)  | 1/1/21  | lifestyle, productivity, software  | A Really like it; polished and informative.   |[Moving on From Unroll.Me - A Sanebox Review ](https://www.hweaver.com/sanebox-review-after-unrollme/)|
+| Amit Agarwal | [labnol.org](https://www.labnol.org/)  | 1/1/21  | Gmail, Google Sheets |Digital Inspiration   | [How to Unsubscribe from Mailing Lists and Junk Newsletters in Gmail ](https://www.labnol.org/internet/gmail-unsubscribe/28806/)  |
 |   |   |   |   |   |
