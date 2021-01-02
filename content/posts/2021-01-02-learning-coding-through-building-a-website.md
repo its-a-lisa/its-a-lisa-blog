@@ -13,8 +13,11 @@ tags:
 I built this website and have run into a variety of unexpected things, all great lessons. 
 
 ## Web Development Lessons
+
 * There are many types of styling approaches. 
 
 ## its-a-lisa.com specific lessons
+
 * Tags can't start with a number. 
-* There needs to be at least one Post that the `draft` attribute is  set to `true` or an error will be thrown for the whole site.
+* There needs to be at least one Post that the `draft` attribute is set to `true` or an error will be thrown for the whole site.
+* When updating the `pages` from the Content Management System, need to go back into GitHub file to add the quotes around input
