@@ -11,4 +11,4 @@ category: Web Development
 tags:
   - webdevelopment
 ---
-I am using Netlify as a Content Management System, and it doesn't have the ability to save posts as draft, so to save, I need to PUblish. Each time this is done, it causes a commit to the GitHub repo -- there ends up being about 10 commits per post by the time I'm done. It got me curious to wonder whether it was normal, OK or determinental for some reason to have this many commits. 
+I am using Netlify as a Content Management System, and it doesn't have the ability to save posts as a draft, so to save, I need to PUblish. Each time this is done, it causes a commit to the GitHub repo -- there ends up being about 10 commits per post by the time I'm done. It got me curious to wonder whether it was normal, OK, or determinental for some reason to have this many commits. 
