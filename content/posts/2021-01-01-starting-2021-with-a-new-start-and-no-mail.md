@@ -19,12 +19,13 @@ So, now I had to put my money where my mouth was ... and do it!
 This blog is going to document the journey I went on to turn this declaration into a reality. It is going to be a two-part blog because 99% of my physical mail is located offsite. After all, my hoarding of it became so bad. 
 
 ## Background
+
 ### The problem:
 
 * Too many email addresses. 
 * Just a collection of junk emails. 
 * Increased attack vector.
-* Hard to find. 
+* Hard to find the emails that really mattered. 
 
 ### What I'm looking to achieve:
 
@@ -33,21 +34,19 @@ This blog is going to document the journey I went on to turn this declaration in
 * A system to not let this happen going forward. 
 
 ## The process
-1. Use Google Takeout to export the data
-1. Wait 3 days
-1. Validate the data exported properly by importing it locally using Thunderbird
-1. Delete all mail from inbox
-1. Unsubscribing from services
-1. Setting up OOO and mail forwarding for old email addresses
 
+1. Use Google Takeout to export the data
+2. Wait 3 days
+3. Validate the data exported properly by importing it locally using Thunderbird
+4. Delete all mail from inbox
+5. Unsubscribing from services
+6. Setting up OOO and mail forwarding for old email addresses
 
 ## Discovery/ Research/ Resources
 
 * [Exporting emails](https://support.google.com/accounts/answer/3024190?hl=en)
 * [Your Step-by-Step Guide to Reaching Inbox Zero](https://www.themuse.com/advice/your-stepbystep-guide-to-reaching-inbox-zero-even-if-you-currently-have-1000-unread-emails)
-* [An Email Fanatic's Guide to Organizing Your Inbox](https://www.themuse.com/advice/an-email-fanatics-guide-to-organizing-your-inbox )
+* [An Email Fanatic's Guide to Organizing Your Inbox](https://www.themuse.com/advice/an-email-fanatics-guide-to-organizing-your-inbox)
 * [How to Migrate Email from One Gmail Account to Another](https://lifehacker.com/how-to-migrate-email-from-one-gmail-account-to-another-5521065?utm_medium=sharefromsite&utm_source=lifehacker_twitter) 
 * [How to Back Up Your Gmail and View .MBOX Files ](https://lifehacker.com/how-to-back-up-your-gmail-and-view-mbox-files-1827660389utm_medium=sharefromsite&utm_source=lifehacker_twitter)
 * [How to Open, Edit, & Convert TGZ, GZ, & TAR.GZ Files](https://www.lifewire.com/what-are-tgz-gz-files-2622391)
-
-
