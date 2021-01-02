@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: about-me
-socialImage: /media/image-2.jpg
+socialImage: /media/034-laptop.png
 draft: false
 ---
 ## Who is Alyssa Feola?
@@ -15,10 +15,8 @@ Alyssa is currently employed as a Cybersecurity Advisor for the Federal Governme
 
 ## [](http://localhost:8000/pages/about#how-does-she-pronounce-her-name)How does she pronounce her name?
 
-Alyssa consntantly finds herself telling people that “Its-a-lisa” in a way that emphasizes the “Lisa” part of her name, rather than it sounding like “Lyssa”. It should sound more like pizza than mister. Recently, people have asked if it is “Ah-Lisa” or “Aye-Lisa” and even Alyssa doesn’t know. She knows that there should be a Lisa in there at the end, and the beginning can be whatever.
+Alyssa constantly finds herself telling people that “Its-a-lisa” in a way that emphasizes the “Lisa” part of her name, rather than it sounding like “Lyssa”. It should sound more like pizza than mister. Recently, people have asked if it is “Ah-Lisa” or “Aye-Lisa” and even Alyssa doesn’t know. She knows that there should be a Lisa in there at the end, and the beginning can be whatever.
 
 ## [](http://localhost:8000/pages/about#where-is-she-from)Where is she from?
 
 Alyssa is currently living in Washington, DC. Alyssa is from the Northshore of Boston, Massachusetts, and has the accent and attitude to go with it.
-
-![]()
