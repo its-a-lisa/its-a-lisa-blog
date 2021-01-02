@@ -1,9 +1,9 @@
 ---
 template: post
 title: Starting 2021 with a new start and no mail
-slug: 2021-operation-inbox-zero
+slug: operation-inbox-zero
 socialImage: /media/003-firewall.png
-draft: true
+draft: false
 date: 2021-01-01T20:40:45.931Z
 description: "My journey to start 2021 with a fresh (virtual) start. "
 category: Data Management
