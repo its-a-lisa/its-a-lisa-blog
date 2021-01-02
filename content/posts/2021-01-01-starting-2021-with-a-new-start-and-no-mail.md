@@ -32,9 +32,22 @@ This blog is going to document the journey I went on to turn this declaration in
 * Have a backup of the emails.
 * A system to not let this happen going forward. 
 
-## Discovery
+## The process
+1. Use Google Takeout to export the data
+1. Wait 3 days
+1. Validate the data exported properly by importing it locally using Thunderbird
+1. Delete all mail from inbox
+1. Unsubscribing from services
+1. Setting up OOO and mail forwarding for old email addresses
+
+
+## Discovery/ Research/ Resources
 
 * [Exporting emails](https://support.google.com/accounts/answer/3024190?hl=en)
-* Unsubscribing from services
-* Setting up
+* [Your Step-by-Step Guide to Reaching Inbox Zero](https://www.themuse.com/advice/your-stepbystep-guide-to-reaching-inbox-zero-even-if-you-currently-have-1000-unread-emails)
+* [An Email Fanatic's Guide to Organizing Your Inbox](https://www.themuse.com/advice/an-email-fanatics-guide-to-organizing-your-inbox )
+* [How to Migrate Email from One Gmail Account to Another] (https://lifehacker.com/how-to-migrate-email-from-one-gmail-account-to-another-5521065?utm_medium=sharefromsite&utm_source=lifehacker_twitter) 
+* [How to Back Up Your Gmail and View .MBOX Files ](https://lifehacker.com/how-to-back-up-your-gmail-and-view-mbox-files-1827660389?utm_medium=sharefromsite&utm_source=lifehacker_twitter)
+* [How to Open, Edit, & Convert TGZ, GZ, & TAR.GZ Files](https://www.lifewire.com/what-are-tgz-gz-files-2622391)
+
 
