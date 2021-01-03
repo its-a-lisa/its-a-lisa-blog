@@ -4,6 +4,15 @@ import Helmet from 'react-helmet';
 import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
+import CookieConsent from 'react-cookie-consent';
+
+<CookieConsent
+          location="bottom"
+          buttonText="Accept"
+          declineButtonText="Decline"
+          cookieName="gatsby-gdpr-google-analytics">
+This site uses cookies ...
+</CookieConsent>
 
 type Props = {
   children: ReactNode,
