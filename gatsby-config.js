@@ -150,6 +150,7 @@ module.exports = {
       resolve: `gatsby-plugin-gdpr-cookies`,
       options: {
         googleAnalytics: {
+<<<<<<< HEAD
           trackingId: 'G-257589939',
           // Setting this parameter is optional
           anonymize: true
@@ -159,6 +160,14 @@ module.exports = {
         },
         // Defines the environments where the tracking should be available  - default is ["production"]
         environments: ['production', 'development']
+=======
+          trackingId: [siteConfig.googleAnalyticsId],
+          // Setting this parameter is optional
+          anonymize: true
+        },
+        // Defines the environments where the tracking should be available  - default is ["production"]
+        environments: ['production']
+>>>>>>> master
       },
     },
     {

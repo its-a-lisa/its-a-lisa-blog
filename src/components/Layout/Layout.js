@@ -5,6 +5,7 @@ import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
 import CookieConsent from 'react-cookie-consent';
+<<<<<<< HEAD
 
 <CookieConsent
           location="bottom"
@@ -13,6 +14,8 @@ import CookieConsent from 'react-cookie-consent';
           cookieName="gatsby-gdpr-google-analytics">
 This site uses cookies ...
 </CookieConsent>
+=======
+>>>>>>> master
 
 type Props = {
   children: ReactNode,
@@ -30,6 +33,14 @@ const Layout = ({
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage || author.photo;
   const metaImageUrl = url + metaImage;
+
+  <CookieConsent
+          location="bottom"
+          buttonText="Accept"
+          declineButtonText="Decline"
+          cookieName="gatsby-gdpr-google-analytics">
+This site uses cookies ...
+</CookieConsent>
 
   return (
     <div className={styles.layout}>
