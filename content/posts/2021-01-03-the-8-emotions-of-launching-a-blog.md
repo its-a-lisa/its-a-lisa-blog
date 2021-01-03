@@ -1,10 +1,10 @@
 ---
 template: post
 title: The 8 emotions of launching a blog
-slug: heres-a-cookie
+slug: emotions-of-launching-a-blog
 socialImage: /media/012-safety.png
-draft: true
-date: 2021-01-03T06:02:40.754Z
+draft: false
+date: 2021-01-03T15:04:49.197Z
 description: Thanks for visiting, here's a cookie!
 category: blogging
 ---
