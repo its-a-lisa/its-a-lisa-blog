@@ -5,6 +5,17 @@ import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
 import CookieConsent from 'react-cookie-consent';
+<<<<<<< HEAD
+
+<CookieConsent
+          location="bottom"
+          buttonText="Accept"
+          declineButtonText="Decline"
+          cookieName="gatsby-gdpr-google-analytics">
+This site uses cookies ...
+</CookieConsent>
+=======
+>>>>>>> master
 
 type Props = {
   children: ReactNode,
