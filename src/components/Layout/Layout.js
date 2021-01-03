@@ -6,6 +6,7 @@ import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
 
 
+
 type Props = {
   children: ReactNode,
   title: string,
@@ -23,13 +24,6 @@ const Layout = ({
   const metaImage = socialImage || author.photo;
   const metaImageUrl = url + metaImage;
 
-  <CookieConsent
-          location="bottom"
-          buttonText="Accept"
-          declineButtonText="Decline"
-          cookieName="gatsby-gdpr-google-analytics">
-This site uses cookies ...
-</CookieConsent>
 
   return (
     <div className={styles.layout}>
@@ -46,6 +40,7 @@ This site uses cookies ...
       </Helmet>
       {children}
     </div>
+    
   );
 };
 

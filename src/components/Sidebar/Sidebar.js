@@ -6,6 +6,7 @@ import Copyright from './Copyright';
 import Menu from './Menu';
 import styles from './Sidebar.module.scss';
 import { useSiteMetadata } from '../../hooks';
+import CookieConsent from "react-cookie-consent";
 
 type Props = {
   isIndex?: boolean,
@@ -24,6 +25,13 @@ const Sidebar = ({ isIndex }: Props) => {
       </div>
     </div>
   );
+  <CookieConsent
+          location="bottom"
+          buttonText="Accept"
+          declineButtonText="Decline"
+          cookieName="gatsby-gdpr-google-analytics">
+This site uses cookies ...
+</CookieConsent>
 };
 
 export default Sidebar;
