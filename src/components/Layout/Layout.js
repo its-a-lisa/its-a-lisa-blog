@@ -38,17 +38,18 @@ const Layout = ({
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={metaImageUrl} />
+
+        <CookieConsent
+         location="bottom"
+         buttonText="Accept"
+         declineButtonText="Decline"
+         cookieName="its-a-lisa-cookie">
+         This site uses cookies ...
+       </CookieConsent>
       </Helmet>
       {children}
     </div>
   );
-  <CookieConsent
-    location="bottom"
-    buttonText="Accept"
-    declineButtonText="Decline"
-    cookieName="its-a-lisa-cookie">
-  This site uses cookies ...
-  </CookieConsent>
 };
 
 export default Layout;
