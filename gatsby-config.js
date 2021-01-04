@@ -147,6 +147,19 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-gdpr-cookies',
+      options: {
+        googleAnalytics: {
+          trackingId: 'G-257589939',
+          // Setting this parameter is optional
+          anonymize: true,
+          cookieName: 'its-a-lisa-cookie'
+        },
+        // Defines the environments where the tracking should be available  - default is ["production"]
+        environments: ['production']
+      },
+    },
+    {
       resolve: 'gatsby-plugin-sitemap',
       options: {
         query: `
