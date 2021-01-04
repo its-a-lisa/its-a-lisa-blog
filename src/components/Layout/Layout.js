@@ -1,7 +1,6 @@
 // @flow strict
 import React from 'react';
 import Helmet from 'react-helmet';
-import CookieConsent from "react-cookie-consent";
 import type { Node as ReactNode } from 'react';
 import { useSiteMetadata } from '../../hooks';
 import styles from './Layout.module.scss';
@@ -38,14 +37,6 @@ const Layout = ({
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
         <meta name="twitter:image" content={metaImageUrl} />
-
-        <CookieConsent
-         location="bottom"
-         buttonText="Accept"
-         declineButtonText="Decline"
-         cookieName="its-a-lisa-cookie">
-         This site uses cookies ...
-       </CookieConsent>
       </Helmet>
       {children}
     </div>
