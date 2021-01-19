@@ -3,7 +3,7 @@ template: post
 title: Simply getting a list of Twitter followers
 slug: cleaning-it-up
 socialImage: /media/050-binary.png
-draft: true
+draft: false
 date: 2021-01-19T00:58:40.996Z
 description: Cleaning things up a bit, starting with Twitter
 category: roboticprocessautomation
@@ -48,14 +48,12 @@ As someone who would like better control of the tweets I see from people that I 
 * Seeing threads from other people
 * See more content from people without having to follow them
 * Keep my ratio of following to followers low
-
-#### What I learned/Roadblocks
-* The 1.1 version API returns people that I am **not** actually following
-* When I used the pagination, it split up the fields, so that when formatted into a .csv directly, the fields didn't line up
+* Don't have to follow companies
+* Not missing valuable tweets
 
 ## Conclusion
 
-Wow, this is proving to be a lot harder than I thought. I thought I would just try googling for an export feature; that doesn’t exist. I am not in the mood to page through each of the pages using the graphical user interface. I really just want a sheet.
+Wow, this proved to be a lot harder than I thought. I thought this would be as easy as Googling for a way to export list of followers and it turned into a 101 tutorial into the Twitter API. it would have been a whole lot quicker to just scroll on the following list long enough to get everyone on one page, copying and then pasting and cleaning up the format -- but I would not have learned as much or felt nearly as accomplished.
 
 | Hypothesis       | Expected Result | Actual Result |
 | ---------------- | --------------- | ------------- |
@@ -77,13 +75,17 @@ Twitter API Paging Cursoring | 0                 | 2                   |[Twitter
 
 ### Long list of failures:
 
-* **Using Postman** Not sure what happened here. I swear I was using the authorization tokens appropriately, but I kept on getting 404 errors. Nothing seemed to work, but I am not going to give up forever, but after trying for a little over an hour, I have to give up for now. 
-* **Using Twit** So promising, but no luck. Seems like this would have worked for just about everything that it is meant to do, *except* for what I am trying to do. Womp Womp :(
-* **Writing code with Tweep** This probably would have worked if I had done it properly, I’m pretty sure. But I didn’t, so it is getting added to this list of failures. I had played around with this the last week when I was starting to use python; but completely forgot that it wasn’t a command-line tool so I thought it was trash because I had just tried using Twit, so when it didn’t work like that, I figured it didn’t work either. Aka – this was a user error and I’ll probably go back someday and use this method.  https://www.geeksforgeeks.org/python-api-friends-in-tweepy/
-* **Using the Version 1.1 API (friend search)** Didn't realize this was the case until I thought I had solved this by using a combo of `twurl` + `"/1.1/friends/list.json?screen_name=its_a_lisa?cursor=-1&skip_status=true&include_user_entities=false" | jq > test123.tx`+ `cursoring` + `json -> .csv` + `cat all the .csv`. Once I did that, I navigated to the `following` column and realized there were people in that list that had the value `false`. I validated that I wasn't following them by spot checking a few through the interface. 
-* ** Using the Version 2.0 API (pagnation)** *  Still trying to figure out how to get it to work; having a lot of problems and at this point for what I'm doing, it is easier to do it in two tries and not have to worry about combining any lists because that is what is breaking. `twurl "/2/users/201492612/following?user.fields=created_at,description,entities,id,location,name,pinned_tweet_id,profile_image_url,protected,url,username,verified&tweet.fields=created_at&max_results=100&pagination_token=LC5IGF1M7F01AZZZ" | jq > alyssa_following_v2_10.txt`
+* **Using Postman** Not sure what happened here. I swear I was using the authorization tokens appropriately, but I kept on getting 404 errors. Nothing seemed to work, but I am not going to give up forever, but after trying for a little over an hour, I gave up for this effort; going back to it once in a while to see if it would magically work. 
+* **Using Twit** So promising, but no luck. Seems like this would have worked for just about everything that it is meant to do, *except* for what I am trying to do. Possibily because of the new version of the API? Who knows... Womp Womp :( 
+* **Writing code with Tweep** This probably would have worked if I had done it properly, I’m pretty sure. But I didn’t, so it is getting added to this list of failures. I had played around with this the last week when I was starting to use python; but completely forgot that it wasn’t a command-line tool so I thought it was trash because I tried using it right after trying Twit, so when it didn’t work as a command line tool, I figured it was useless and generally broken. Aka – this was a user error and I’ll probably go back someday and use this method.  https://www.geeksforgeeks.org/python-api-friends-in-tweepy/
+* **Using the Version 1.1 API (friend search)**The retrieval of information works; but it isn't the information that I was *actually* looking for.  Once I used the correct statement to get the friend list, I navigated to the `following` column and realized there were people in that list that had the value `false`. I validated that I wasn't following them by spot-checking a few through the interface. 
+* ** Using the Version 2.0 API (pagnation)** *  Still trying to figure out how to get it to work; having a lot of problems and at this point for what I'm doing, it is easier to do it in two tries and not have to worry about combining any lists because that is the part that is breaking. 
 * **Chrome Extension - Webscraper.io** I didn't put too much effort into it. I followed the instructions and it wasn't obvious how it should work, so I moved on pretty quickly. I'm about 56% positive that it might have worked, but I just didn't know where to look to see the results.
 * **A sketchy Google Sheets with scripts** Ya know... when you get to that point, where you just want it to work, to *just freaking work* !? Ya, that is what happened here -- there is a good chance that I even got to it from the other article that was like "Hey! You, ya, here look at this thing! It's sketchy!!" but I only read the first sentence. 
+
+#### What I learned/Roadblocks
+* The 1.1 version API returns people that I am **not** actually following
+* When I used the pagination, it split up the fields, so that when formatted into a .csv directly, the fields didn't line up
 
 ### Bonus: Semi-comical mistakes I made
 
