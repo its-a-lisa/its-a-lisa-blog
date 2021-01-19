@@ -3,7 +3,7 @@ template: post
 title: Simply getting a list of Twitter followers
 slug: cleaning-it-up
 socialImage: /media/050-binary.png
-draft: true
+draft: false
 date: 2021-01-19T00:58:40.996Z
 description: Cleaning things up a bit, starting with Twitter
 category: roboticprocessautomation
