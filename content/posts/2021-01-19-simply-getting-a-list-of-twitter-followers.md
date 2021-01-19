@@ -13,8 +13,6 @@ category: roboticprocessautomation
 As someone who would like better control of the tweets I see from people that I am interested in; I would like to have a list of people that I am currently following in a spreadsheet so that I can group similiar people into lists and have a better user experience. 
 
 ## Solution
-
-### Steps:
 1. Install `jq`
 1. Install `twurl`
 1. Get Twitter API Developer credentials
@@ -55,8 +53,9 @@ As someone who would like better control of the tweets I see from people that I 
 
 Wow, this proved to be a lot harder than I thought. I thought this would be as easy as Googling for a way to export list of followers and it turned into a 101 tutorial into the Twitter API. it would have been a whole lot quicker to just scroll on the following list long enough to get everyone on one page, copying and then pasting and cleaning up the format -- but I would not have learned as much or felt nearly as accomplished.
 
+
 | Hypothesis       | Expected Result | Actual Result |
-| ---------------- | --------------- | ------------- |
+| :------------- | --------------: | -------------: |
 | Difficulty       | Easy            | Hard          |
 | Level of Effort  | Low             | High      |
 | Learning         | Low             | Moderate      |
@@ -64,8 +63,10 @@ Wow, this proved to be a lot harder than I thought. I thought this would be as e
 
 ## Skills I improved
 
+
+
 | Skill                         | Initial Proficiency | Resulting Proficiency | Resource                                                                                                                                          |
-| ----------------------------- | ----------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ----------------------------- | :-----------------: | :-----------------: | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Linux - cat                   | 0                 | 4                   | [How to combine files using the cat command in linux](https://www.howtogeek.com/278599/how-to-combine-text-files-using-the-cat-command-in-linux/) |
 | Linux - piping                | 1                 | 3                   |                                                                                                                                                   |
 | GitHub- searching gists       | 0                 | 8                   |  [GitHub Gist Search](https://gist.github.com/search)                                                                                                                                                 |
